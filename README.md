@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a3d2e,80:0e6b3f,100:39d353&height=260&section=header&text=Syed%20Hassan%20Dildar&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%203D%20Web%20Crafter&descAlignY=63&descSize=18&descFontColor=b2f2c9&animation=fadeIn&stroke=39d353&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=⚡+Building+Production-Ready+Apps;🌐+Crafting+Immersive+3D+Web+Experiences;⚛️+React+%26+React+Native+Specialist;🛠️+Node.js+%2B+Express+Backend+Engineer;💡+Write+Code+That+Works.+Then+Code+That+Lasts." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=Building+Production-Ready+Apps;Crafting+Immersive+3D+Web+Experiences;React+and+React+Native+Specialist;Node.js+and+Express+Backend+Engineer;Write+Code+That+Works.+Then+Code+That+Lasts." alt="Typing Animation" />
 
 <br/><br/>
 
