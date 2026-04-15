@@ -148,3 +148,12 @@ const hassan = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0a3d2e,100:39d353&height=150&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=16&fontColor=b2f2c9&fontAlignY=65&animation=fadeIn&reversal=true" />
 
 </div>
+
+
+<div align="center">
+
+### 📱 Scan to Visit my Portfolio
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b" alt="Portfolio QR Code" />
+
+</div>
