@@ -1,71 +1,100 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=200&section=header&text=Syed%20Hassan%20Dildar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%203D%20Web%20Crafter&descAlignY=62&descSize=18&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/Hxni786">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=39D353&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=⚡+Building+Production-Ready+Apps;🌐+Crafting+3D+Web+Experiences;⚛️+React+%26+React+Native+Specialist;🛠️+Node.js+%2B+Express+Backend+Engineer;💡+Write+Code+That+Works.+That+Lasts." alt="Typing Animation" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOW BADGES -->
-<a href="https://github.com/Hxni786">
-  <img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/Hxni786?tab=followers">
-  <img src="https://img.shields.io/github/followers/Hxni786?style=for-the-badge&color=39d353&labelColor=0d1117&label=FOLLOWERS" />
-</a>
-
-<br/><br/>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,30:0a3d2e,70:0e6b3f,100:39d353&height=280&section=header&text=SYED%20HASSAN%20DILDAR&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%203D%20Web%20Crafter&descSize=17&descAlignY=65&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
 
 </div>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+---
 
-### 🧑‍💻 &nbsp;Who Am I?
+<div align="center">
 
-```javascript
-const hassan = {
-  name:       "Syed Hassan Dildar",
-  role:       "Full Stack Developer",
-  location:   "🌍 Earth",
-  focus:      ["React", "React Native", "Node.js", "Three.js"],
-  database:   "MySQL",
-  passion:    "Building things that matter",
-  currentGoal:"Ship. Iterate. Grow.",
-  funFact:    "I debug in my dreams 🛠️",
-};
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   const developer = {                                        ║
+║     name    : "Syed Hassan Dildar",                          ║
+║     alias   : "Hassan",                                      ║
+║     craft   : "Full Stack JavaScript Engineer",              ║
+║     weapons : ["React", "React Native", "Node.js",           ║
+║                "Three.js", "Express", "MySQL"],              ║
+║     mantra  : "Write code that works. Then code that lasts." ║
+║   }                                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
-<!-- TECH STACK - ANIMATED ICONS -->
 <div align="center">
 
-### 🛠️ &nbsp;Tech Arsenal
+## ◈ &nbsp; ABOUT &nbsp; ◈
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 &nbsp; What I Do
+
+I build **production-grade applications** that live in the real world — not just in a repo.
+
+From pixel-perfect **React UIs** to immersive **Three.js 3D experiences**, smooth **React Native** mobile apps to solid **Node.js + Express** backends — I own the entire stack.
+
+I don't just write features. I architect systems that **scale**, UIs that **breathe**, and backends that **hold**.
+
+**Currently leveling up in:**
+- 🌌 &nbsp; Advanced Three.js / WebGL
+- 📱 &nbsp; React Native performance tuning
+- ⚙️ &nbsp; Microservices architecture
+
+</td>
+<td width="45%" align="center">
+
+```javascript
+while (alive) {
+
+  eat();
+  sleep();
+
+  if (inspired()) {
+    code(until === "perfect");
+  } else {
+    code(until === "inspired");
+  }
+
+  push();
+  repeat();
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ &nbsp; TECH STACK &nbsp; ◈
 
 <br/>
 
-**⚡ Frontend**
+### ⚡ &nbsp; Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,threejs&theme=dark&perline=5" />
 
 <br/><br/>
 
-**🔧 Backend & Database**
+### 🔧 &nbsp; Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=5" />
 
 <br/><br/>
 
-**🧰 Tools & Workflow**
+### 🧰 &nbsp; Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark&perline=5" />
 
@@ -75,96 +104,83 @@ const hassan = {
 
 ---
 
-<!-- GITHUB STATS - ANIMATED CARDS -->
 <div align="center">
 
-### 📊 &nbsp;GitHub Statistics
+## ◈ &nbsp; GITHUB STATS &nbsp; ◈
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=12" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_radius=12&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=16" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=16&langs_count=8" height="175" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=16" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35333&hide_border=true&radius=8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35322&hide_border=true&radius=10&custom_title=Hassan's%20Contribution%20Timeline" width="96%" />
 
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS / TROPHIES -->
 <div align="center">
 
-### 🏆 &nbsp;GitHub Trophies
+## ◈ &nbsp; TROPHIES &nbsp; ◈
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
 
-### 🐍 &nbsp;My Contributions Snake
+## ◈ &nbsp; CONTRIBUTION SNAKE &nbsp; ◈
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-> ℹ️ *To activate the snake animation on your profile, follow [this guide](https://github.com/Platane/snk) to set up the GitHub Action.*
-
 </div>
 
 ---
 
-<!-- QUOTE SECTION -->
 <div align="center">
 
-### 💭 &nbsp;Daily Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<!-- CONNECT SECTION -->
-<div align="center">
-
-### 🌐 &nbsp;Let's Connect
+## ◈ &nbsp; LET'S CONNECT &nbsp; ◈
 
 <br/>
 
-<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Syed%20Hassan%20Dildar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:msgoat550@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-msgoat550-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Hxni786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Hxni786-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-39d353?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/─────────────%20LinkedIn%20─────────────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hassan-dildar-b40649400)
 
-<br/><br/>
+[![Gmail](https://img.shields.io/badge/──────────────%20Gmail%20──────────────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msgoat550@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/──────────────%20Portfolio%20──────────────-39d353?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
+
+<br/>
 
 ---
 
-<!-- FOOTER WAVE + QUOTE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=130&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=16&fontColor=8b949e&fontAlignY=65&animation=fadeIn" />
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│        " Write code that works.                            │
+│           Then write code that lasts. "                    │
+│                                                             │
+│                                          — Hassan          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0a3d2e,100:39d353&height=120&section=footer&animation=fadeIn" />
 
 </div>
