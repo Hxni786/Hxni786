@@ -82,3 +82,9 @@
 </p>
 
 <p align="center"><i>"Write code that works. Then write code that lasts."</i></p>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/Hxni786" alt="GitHub QR Code" />
+  <br>
+  <i>Scan to visit my profile on mobile</i>
+</p>
