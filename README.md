@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- MASTER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=⚡+Building+production-ready+full-stack+apps;🎨+Crafting+immersive+3D+experiences+with+Three.js;📱+React+%26+React+Native+—+web+%26+mobile,+covered;🛠️+Node.js+backend+engineer+%7C+REST+API+architect;💡+Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+apps;Crafting+immersive+3D+experiences+with+Three.js;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
 
 <br/>
 
@@ -165,7 +165,7 @@ const hassan: Developer = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
 
 </div>
 
@@ -261,7 +261,7 @@ const hassan: Developer = {
 </td>
 <td align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Thanks+for+stopping+by!+⭐;Let's+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=52&lines=Thanks+for+stopping+by%21;Let%27s+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
 
 </td>
 </tr>
