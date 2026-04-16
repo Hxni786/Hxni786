@@ -1,32 +1,54 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020c1b,40:0a3d2e,80:0e6b3f,100:39d353&height=260&section=header&text=Syed%20Hassan%20Dildar&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Specialist%20%E2%80%A2%203D%20Web%20Crafter&descAlignY=63&descSize=18&descFontColor=b2f2c9&animation=fadeIn&stroke=39d353&strokeWidth=2" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CINEMATIC HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=Building+Production-Ready+Apps;Crafting+Immersive+3D+Web+Experiences;React+and+React+Native+Specialist;Node.js+and+Express+Backend+Engineer;Write+Code+That+Works.+Then+Code+That+Lasts." alt="Typing Animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
+
+<br/>
+
+<!-- BADGE ROW — PROFILE VIEWS + STATUS -->
+<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=0d3b20&label=PROFILE+VIEWS&labelColor=000000" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-39d353?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=39d353" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED-Pakistan%20🌙-ffffff?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
+
+<!-- MASTER TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=⚡+Building+production-ready+full-stack+apps;🎨+Crafting+immersive+3D+experiences+with+Three.js;📱+React+%26+React+Native+—+web+%26+mobile,+covered;🛠️+Node.js+backend+engineer+%7C+REST+API+architect;💡+Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
+
+<br/>
 
 ---
 
 </div>
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🧑‍💻 &nbsp;Who Am I?
+<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-```javascript
-const hassan = {
-  name:       "Syed Hassan Dildar",
-  role:       "Full Stack Developer",
-  location:   "🌍 Earth",
-  focus:      ["React", "React Native", "Node.js", "Three.js"],
-  database:   "MySQL",
-  passion:    "Building things that matter",
-  currentGoal:"Ship. Iterate. Grow.",
-  funFact:    "I debug in my dreams 🛠️",
+### 🧑‍💻 &nbsp; The Mind Behind the Code
+
+```typescript
+const hassan: Developer = {
+  name        : "Syed Hassan Dildar",
+  title       : "Full Stack Developer",
+  location    : "🌍 Pakistan — building for the world",
+  stack       : {
+    frontend  : ["React", "React Native", "Three.js", "Tailwind"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    database  : ["MySQL"],
+    tools     : ["Git", "GitHub", "VSCode", "Postman", "npm"],
+  },
+  currentFocus: "Scalable architecture + stunning UX",
+  openTo      : ["Freelance", "Full-time", "Collaboration"],
+  philosophy  : "Ship. Iterate. Grow. Repeat.",
+  funFact     : "I debug in my dreams 🛠️",
 };
 ```
 
@@ -34,126 +56,222 @@ const hassan = {
 
 ---
 
-<!-- TECH STACK - ANIMATED ICONS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🛠️ &nbsp;Tech Arsenal
+### 🛠️ &nbsp; Tech Arsenal
 
 <br/>
 
-**⚡ Frontend**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,threejs&theme=dark&perline=5" />
+**⚡ Frontend & 3D**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=dark&perline=7" />
 
-**🔧 Backend & Database**
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=5" />
+**🔧 Backend & Data**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark&perline=7" />
 
-**🧰 Tools & Workflow**
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&theme=dark&perline=5" />
+**📱 Mobile**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=7" />
+<br/><sub><sup>React Native</sup></sub>
+
+</td>
+<td align="center">
+
+**🧰 Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel&theme=dark&perline=7" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS - ANIMATED CARDS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CURRENTLY BUILDING                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### 🚀 &nbsp; What I'm Up To
+
+<table>
+<tr>
+<td>🔭 <b>Currently Building</b></td>
+<td>Full-stack production apps with React + Node.js</td>
+</tr>
+<tr>
+<td>🌱 <b>Currently Learning</b></td>
+<td>Advanced Three.js, WebGL shaders, TypeScript patterns</td>
+</tr>
+<tr>
+<td>💬 <b>Ask Me About</b></td>
+<td>React architecture, REST API design, 3D web experiences</td>
+</tr>
+<tr>
+<td>⚡ <b>Fun Fact</b></td>
+<td>I've refactored code at 2AM and called it "meditation" 🧘</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATISTICS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📊 &nbsp;GitHub Statistics
+### 📊 &nbsp; GitHub Intelligence
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=16&ring_color=39d353" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=16&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=16" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35344&hide_border=true&radius=10&custom_title=Hassan's%20Contribution%20Timeline" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
 
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS / TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TROPHIES                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+### 🏆 &nbsp; GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%" />
+
+</div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🐍 &nbsp;My Contributions Snake
+### 📈 &nbsp; Contribution Timeline
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               SNAKE CONTRIBUTION ANIMATION                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 &nbsp; Contributions Going Serpentine
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 ---
 
-<!-- QUOTE SECTION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  DEV QUOTE                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 💭 &nbsp;Daily Dev Wisdom
+### 💭 &nbsp; Today's Dev Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CONNECT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🌐 &nbsp;Let's Connect
+### 🌐 &nbsp; Let's Build Something Great
 
 <br/>
 
 <a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Syed%20Hassan%20Dildar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
 <a href="mailto:msgoat550@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-msgoat550-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
 <a href="https://github.com/Hxni786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Hxni786-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
 <a href="https://mypf786.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-39d353?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-39d353?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
 
+<!-- QR + FOOTER SPLIT -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="180">
+
+**📱 Scan my Portfolio**
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b&margin=8" alt="Portfolio QR Code" width="140" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1500&color=39D353&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Thanks+for+stopping+by!+⭐;Let's+connect+and+build+together.;Every+great+product+starts+with+a+conversation." alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-<!-- FOOTER WAVE + QUOTE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0a3d2e,100:39d353&height=150&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=16&fontColor=b2f2c9&fontAlignY=65&animation=fadeIn&reversal=true" />
-
-</div>
-
-
-<div align="center">
-
-### 📱 Scan to Visit my Portfolio
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://mypf786.netlify.app/&color=39d353&bgcolor=020c1b" alt="Portfolio QR Code" />
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020c1b,80:041a0e,100:0d3b20&height=160&section=footer&text=%22Write+code+that+works.+Then+write+code+that+lasts.%22&fontSize=15&fontColor=39d353&fontAlignY=68&animation=fadeIn&reversal=true" />
 
 </div>
