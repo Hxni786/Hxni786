@@ -33,7 +33,6 @@
 <img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 🧑‍💻 &nbsp; The Mind Behind the Code
-
 ```typescript
 const hassan: Developer = {
   name        : "Syed Hassan Dildar",
@@ -57,13 +56,118 @@ const hassan: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED GALLERY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎬 &nbsp; Featured Gallery — The Best of Hxni
+<br/>
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://hxnix-gold.vercel.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png" width="100%" />
+      </a>
+      <br/>
+      <b>The 3D Nexus</b><br/>
+      <sub>Immersive Three.js Portfolio Experience</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Hxni-Ecommerce-Store" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png" width="100%" />
+      </a>
+      <br/>
+      <b>Editorial Excellence</b><br/>
+      <sub>Full-Stack Boutique E-commerce Platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/E-store2" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/E-store2/main/docs/ui-preview.png" width="100%" />
+      </a>
+      <br/>
+      <b>Bespoke E-store 2.0</b><br/>
+      <sub>Luxury Minimalist Mobile Commerce</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Ticket-Booking-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Ticket-Booking-App/main/mobile/assets/promo1.png" width="100%" />
+      </a>
+      <br/>
+      <b>TicketVerse</b><br/>
+      <sub>Premium Full-Stack Event Booking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Nixh-A-social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Nixh-A-social-Media-App/main/docs/assets/mobile_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>NIXH Social</b><br/>
+      <sub>Enterprise Multi-User Directory & Social Engine</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/A-food-Delivery-App-hxni-express" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_express_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>hxni Express</b><br/>
+      <sub>Cinematic Parallax Food Delivery Experience</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/-A-Restaurant-App-Spice-with-Hassan" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/spice_hassan_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>Spice with Hassan</b><br/>
+      <sub>Boutique Restaurant & Ordering Management</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Food-Delivery-app-2" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Food-Delivery-app-2/main/hero.png" width="100%" />
+      </a>
+      <br/>
+      <b>Nixh Food 2.0</b><br/>
+      <sub>Scalable Order Tracking & Delivery ecosystem</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Expense-Tracker" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxni_finance_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>Hxni Finance</b><br/>
+      <sub>Advanced Personal Asset & Expense Management</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxni786/Hxnix-Social-Media-App" target="_blank">
+        <img src="https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/profile_docs/assets/hxnix_social_mockup.png" width="100%" />
+      </a>
+      <br/>
+      <b>Hxnix Social</b><br/>
+      <sub>Modern Interactive Community Engine</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH ARSENAL                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🛠️ &nbsp; Tech Arsenal
-
 <br/>
 
 <table>
@@ -111,7 +215,6 @@ const hassan: Developer = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 🚀 &nbsp; What I'm Up To
-
 <table>
 <tr>
 <td>🔭 <b>Currently Building</b></td>
@@ -140,7 +243,6 @@ const hassan: Developer = {
 <div align="center">
 
 ### 📊 &nbsp; GitHub Intelligence
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
@@ -155,9 +257,6 @@ const hassan: Developer = {
 
 ---
 
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION GRAPH                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -165,7 +264,6 @@ const hassan: Developer = {
 <div align="center">
 
 ### 📈 &nbsp; Contribution Timeline
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan's%20Contribution%20Graph%20—%20Building%20Every%20Day" width="100%" />
@@ -181,7 +279,6 @@ const hassan: Developer = {
 <div align="center">
 
 ### 🐍 &nbsp; Contributions Going Serpentine
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -199,7 +296,6 @@ const hassan: Developer = {
 <div align="center">
 
 ### 💭 &nbsp; Today's Dev Wisdom
-
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
@@ -213,8 +309,6 @@ const hassan: Developer = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-### 🌐 &nbsp; Let's Build Something Great
 
 <br/>
 
