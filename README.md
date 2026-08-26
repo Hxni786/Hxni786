@@ -18,6 +18,37 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=39D353&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=Building+production-ready+full-stack+apps;Crafting+immersive+3D+experiences+with+Three.js;React+%26+React+Native+-+web+%26+mobile%2C+covered;Node.js+backend+engineer+%7C+REST+API+architect;Write+code+that+works.+Then+code+that+lasts." alt="Typing SVG" />
 
+<br/><br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            LIVE TERMINAL — NEOFETCH FIRST                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>hxni@cipher ~ $ neofetch</code></h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./hxni-ascii.svg" width="370" alt="Hxni ASCII portrait" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="system info" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            LIVE TERMINAL — CONTRIBUTION HEATMAP           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
+
 <br/>
 
 ---
@@ -237,38 +268,6 @@ const hassan: Developer = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            LIVE TERMINAL — HEATMAP + NEOFETCH             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Live Terminal
-<br/>
-
-<h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
-
-<br/><br/>
-
-<h3><code>hxni@cipher ~ $ neofetch</code></h3>
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./hxni-ascii.svg" width="370" alt="Hxni ASCII portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="system info" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATISTICS                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -285,38 +284,9 @@ const hassan: Developer = {
 
 <img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
 
-</div>
+<br/><br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Contribution Timeline
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12&custom_title=Hassan%27s%20Contribution%20Graph%20%E2%80%94%20Building%20Every%20Day" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Contributions Going Serpentine
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12" width="100%" />
 
 </div>
 
@@ -345,10 +315,6 @@ const hassan: Developer = {
 
 ### GitHub Achievements
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4" />
-
-<br/><br/>
 
 <table border="0">
   <tr>
