@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="305" viewBox="0 0 490 305">
+<rect width="490" height="305" fill="#0d0d0d" rx="8"/>
+<rect x="1" y="1" width="488" height="303" fill="none" stroke="#8B6914" stroke-width="1" rx="7.5"/>
+<rect width="490" height="36" fill="#8B6914" fill-opacity="0.18" rx="8"/>
+<rect x="0" y="18" width="490" height="18" fill="#8B6914" fill-opacity="0.18"/>
+<circle cx="16" cy="18" r="4" fill="#ff5f56" opacity="0.7"/>
+<circle cx="30" cy="18" r="4" fill="#ffbd2e" opacity="0.7"/>
+<circle cx="44" cy="18" r="4" fill="#27c93f" opacity="0.7"/>
+<style>@keyframes fin{from{opacity:0}to{opacity:1}}
+.l0{animation:fin .4s 0.00s both}
+.l1{animation:fin .4s 0.06s both}
+.l2{animation:fin .4s 0.12s both}
+.l3{animation:fin .4s 0.18s both}
+.l4{animation:fin .4s 0.24s both}
+.l5{animation:fin .4s 0.30s both}
+.l6{animation:fin .4s 0.36s both}
+.l7{animation:fin .4s 0.42s both}
+.l8{animation:fin .4s 0.48s both}
+.l9{animation:fin .4s 0.54s both}
+.l10{animation:fin .4s 0.60s both}
+.l11{animation:fin .4s 0.66s both}
+.l12{animation:fin .4s 0.72s both}
+</style>
+<text class="l0" x="58" y="27" opacity="0" font-family='"Courier New", Courier, monospace' font-size="13px" font-weight="bold" fill="#D4AF37">hxni@cipher-stack</text>
+<text class="l1" x="18" y="55" opacity="0" font-family='"Courier New", Courier, monospace' font-size="11px" font-weight="normal" fill="#8B6914">────────────────────────────────────────</text>
+<text class="l2" x="18" y="74" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">OS      </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">The Cipher Stack v2026</tspan></text>
+<text class="l3" x="18" y="93" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Host    </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">Islamabad, Pakistan  |  PKT (UTC+5)</tspan></text>
+<text class="l4" x="18" y="112" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Role    </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">Full-Stack Dev + Content Creator</tspan></text>
+<text class="l5" x="18" y="131" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Stack   </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">React 19 · Vite · Tailwind v4 · Framer Motion</tspan></text>
+<text class="l6" x="18" y="150" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan fill="#b0b0b0">           Flutter · Python · MySQL · Supabase</tspan></text>
+<text class="l7" x="18" y="169" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Brand   </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">The Cipher Stack</tspan></text>
+<text class="l8" x="18" y="188" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Social  </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">fb.com/Hxni786  |  @the.cipher.stack (IG)</tspan></text>
+<text class="l9" x="18" y="207" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">LinkedIn</tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">Syed Hassan Dildar</tspan></text>
+<text class="l10" x="18" y="226" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Web     </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">a-talking-cinematic-portfolio-yfq6.vercel.app</tspan></text>
+<text class="l11" x="18" y="245" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Study   </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">BSCS → ML / AI Research</tspan></text>
+<text class="l12" x="18" y="264" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">GitHub  </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">github.com/Hxni786</tspan></text>
+</svg>

@@ -1,0 +1,9 @@
+# Full local requirements – portrait + heatmap pipeline
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait processing (local only – not needed by CI)
+pillow>=10.0.0
+numpy>=1.24.0
+opencv-python-headless>=4.8.0
+rembg>=2.0.50        # downloads a ~180 MB model on first run
