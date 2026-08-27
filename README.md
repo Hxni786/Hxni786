@@ -1,7 +1,28 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CINEMATIC HEADER                        -->
+<!--            1. LIVE TERMINAL — NEOFETCH                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>hxni@cipher ~ $ neofetch</code></h3>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./hxni-ascii.svg" width="370" alt="Hxni ASCII portrait" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" alt="system info" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020c1b,60:041a0e,80:072b16,100:0d3b20&height=300&section=header&text=Syed%20Hassan%20Dildar&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Engineer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Craftsman&descAlignY=60&descSize=17&descFontColor=39d353&animation=fadeIn&stroke=39d353&strokeWidth=1" />
@@ -23,31 +44,12 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            LIVE TERMINAL — CONTRIBUTIONS FIRST            -->
+<!--            3. LIVE TERMINAL — CONTRIBUTIONS                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            LIVE TERMINAL — NEOFETCH SECOND                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h3><code>hxni@cipher ~ $ neofetch</code></h3>
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./hxni-ascii.svg" width="370" alt="Hxni ASCII portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" alt="system info" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
