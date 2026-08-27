@@ -47,7 +47,7 @@
 <!--            3. LIVE TERMINAL — CONTRIBUTIONS                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
+<h3><code>Contributions</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
 
@@ -283,7 +283,7 @@
 
 <div align="center">
 
-<h3><code>hxni@cipher ~ $ cat .links</code></h3>
+<h3><code>Socials</code></h3>
 
 <br/>
 
