@@ -4,7 +4,7 @@
 <!--            1. LIVE TERMINAL — NEOFETCH                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h3><code>hxni@cipher ~ $ neofetch</code></h3>
+<h3><code>The Cipher Stack</code></h3>
 
 <table>
   <tr>

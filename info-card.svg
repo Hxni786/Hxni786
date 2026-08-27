@@ -21,7 +21,7 @@
 .l11{animation:fin .4s 0.66s both}
 .l12{animation:fin .4s 0.72s both}
 </style>
-<text class="l0" x="58" y="27" opacity="0" font-family='"Courier New", Courier, monospace' font-size="13px" font-weight="bold" fill="#D4AF37">hxni@cipher-stack</text>
+<text class="l0" x="58" y="27" opacity="0" font-family='"Courier New", Courier, monospace' font-size="13px" font-weight="bold" fill="#D4AF37">The Cipher Stack</text>
 <text class="l1" x="18" y="55" opacity="0" font-family='"Courier New", Courier, monospace' font-size="11px" font-weight="normal" fill="#8B6914">────────────────────────────────────────</text>
 <text class="l2" x="18" y="74" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">OS      </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">The Cipher Stack v2026</tspan></text>
 <text class="l3" x="18" y="93" opacity="0" font-family='"Courier New", Courier, monospace' font-size="12px"><tspan font-weight="bold" fill="#D4AF37">Host    </tspan><tspan fill="#8B6914"> : </tspan><tspan fill="#b0b0b0">Islamabad, Pakistan  |  PKT (UTC+5)</tspan></text>

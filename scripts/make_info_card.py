@@ -17,7 +17,7 @@ STATIC = os.environ.get("STATIC") == "1"
 OUT    = "info-card.svg"
 
 # ── Your details ─────────────────────────────────────────────────────
-HANDLE  = "hxni@cipher-stack"
+HANDLE  = "The Cipher Stack"
 DIVIDER = "\u2500" * 40          # ────────────────── (box-drawing dash)
 
 #   (key, value)  –  empty key = continuation / indent line
