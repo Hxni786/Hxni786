@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CINEMATIC HEADER                        -->
@@ -23,7 +23,17 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            LIVE TERMINAL — NEOFETCH FIRST                 -->
+<!--            LIVE TERMINAL — CONTRIBUTIONS FIRST            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            LIVE TERMINAL — NEOFETCH SECOND                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <h3><code>hxni@cipher ~ $ neofetch</code></h3>
@@ -41,49 +51,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            LIVE TERMINAL — CONTRIBUTION HEATMAP           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h3><code>hxni@cipher ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
-
-<br/>
-
 ---
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-### The Mind Behind the Code
-
-```typescript
-const hassan: Developer = {
-  name        : "Syed Hassan Dildar",
-  title       : "Full Stack Developer",
-  location    : "Pakistan — building for the world",
-  stack       : {
-    frontend  : ["React", "React Native", "Three.js", "Tailwind"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MySQL"],
-    tools     : ["Git", "GitHub", "VSCode", "Postman", "npm"],
-  },
-  currentFocus: "Scalable architecture + stunning UX",
-  openTo      : ["Freelance", "Full-time", "Collaboration"],
-  philosophy  : "Ship. Iterate. Grow. Repeat.",
-  funFact     : "I debug in my dreams",
-};
-```
-
-<br clear="right"/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    FEATURED GALLERY                       -->
@@ -264,46 +234,6 @@ const hassan: Developer = {
 <td>I have refactored code at 2AM and called it meditation</td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATISTICS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### GitHub Intelligence
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=020c1b&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_radius=18&ring_color=39d353&include_all_commits=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=merko&hide_border=true&bg_color=020c1b&title_color=39d353&text_color=c9d1d9&border_radius=18&langs_count=8&card_width=320" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=merko&hide_border=true&background=020c1b&ring=39D353&fire=b5f520&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&border_radius=18&card_width=700" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=020c1b&color=39d353&line=39d353&point=b5f520&area=true&area_color=39d35328&hide_border=true&radius=12" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  DEV QUOTE                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### Today's Dev Wisdom
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
-
-</div>
 
 ---
 

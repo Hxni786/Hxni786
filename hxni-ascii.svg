@@ -1,6 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="407" viewBox="0 0 440 407">
-<rect width="100%" height="100%" fill="transparent"/>
-<style>text{font-family:"Courier New",Courier,monospace;font-size:9px;fill:#D4AF37;}</style>
+<rect width="100%" height="100%" fill="#0d0d0d" rx="8"/>
+<rect x="1" y="1" width="438" height="405" fill="none" stroke="#8B6914" stroke-width="1" rx="7.5"/>
+<style>
+text { font-family: "Courier New", Courier, monospace; font-size: 9px; fill: #D4AF37; }
+@keyframes fin { from { opacity: 0; } to { opacity: 1; } }
+.row { animation: fin 0.3s ease-out both; }
+.r0 { animation-delay: 0.000s; }
+.r1 { animation-delay: 0.072s; }
+.r2 { animation-delay: 0.144s; }
+.r3 { animation-delay: 0.217s; }
+.r4 { animation-delay: 0.289s; }
+.r5 { animation-delay: 0.361s; }
+.r6 { animation-delay: 0.433s; }
+.r7 { animation-delay: 0.506s; }
+.r8 { animation-delay: 0.578s; }
+.r9 { animation-delay: 0.650s; }
+.r10 { animation-delay: 0.722s; }
+.r11 { animation-delay: 0.794s; }
+.r12 { animation-delay: 0.867s; }
+.r13 { animation-delay: 0.939s; }
+.r14 { animation-delay: 1.011s; }
+.r15 { animation-delay: 1.083s; }
+.r16 { animation-delay: 1.156s; }
+.r17 { animation-delay: 1.228s; }
+.r18 { animation-delay: 1.300s; }
+.r19 { animation-delay: 1.372s; }
+.r20 { animation-delay: 1.444s; }
+.r21 { animation-delay: 1.517s; }
+.r22 { animation-delay: 1.589s; }
+.r23 { animation-delay: 1.661s; }
+.r24 { animation-delay: 1.733s; }
+.r25 { animation-delay: 1.806s; }
+.r26 { animation-delay: 1.878s; }
+.r27 { animation-delay: 1.950s; }
+.r28 { animation-delay: 2.022s; }
+.r29 { animation-delay: 2.094s; }
+.r30 { animation-delay: 2.167s; }
+.r31 { animation-delay: 2.239s; }
+.r32 { animation-delay: 2.311s; }
+.r33 { animation-delay: 2.383s; }
+.r34 { animation-delay: 2.456s; }
+.r35 { animation-delay: 2.528s; }
+</style>
 <defs>
   <clipPath id="r0"><rect x="0" y="0" width="0" height="11"><animate attributeName="width" from="0" to="440.0" dur="0.12s" begin="0.000s" fill="freeze"/></rect></clipPath>
   <clipPath id="r1"><rect x="0" y="11" width="0" height="11"><animate attributeName="width" from="0" to="440.0" dur="0.12s" begin="0.072s" fill="freeze"/></rect></clipPath>
@@ -39,40 +80,40 @@
   <clipPath id="r34"><rect x="0" y="374" width="0" height="11"><animate attributeName="width" from="0" to="440.0" dur="0.12s" begin="2.456s" fill="freeze"/></rect></clipPath>
   <clipPath id="r35"><rect x="0" y="385" width="0" height="11"><animate attributeName="width" from="0" to="440.0" dur="0.12s" begin="2.528s" fill="freeze"/></rect></clipPath>
 </defs>
-<text x="0" y="11" xml:space="preserve" clip-path="url(#r0)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="22" xml:space="preserve" clip-path="url(#r1)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="33" xml:space="preserve" clip-path="url(#r2)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#c=:`.`:=+s%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="44" xml:space="preserve" clip-path="url(#r3)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#=:`.      `:+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="55" xml:space="preserve" clip-path="url(#r4)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*   `=**+=-``:%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="66" xml:space="preserve" clip-path="url(#r5)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%:`====-+-`--*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="77" xml:space="preserve" clip-path="url(#r6)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*-*-. .+-.`-c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="88" xml:space="preserve" clip-path="url(#r7)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%s*+ss*====*s#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="99" xml:space="preserve" clip-path="url(#r8)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%*-+=+-:--s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="110" xml:space="preserve" clip-path="url(#r9)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@@#c+:::.`:c@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="121" xml:space="preserve" clip-path="url(#r10)">@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@%s*::scc*==scs@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="132" xml:space="preserve" clip-path="url(#r11)">@@@@@@@@@@@@@@@@@@@@@@@@%@@@%#c+=: .:``+cc*++:.+*s%@@@@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="143" xml:space="preserve" clip-path="url(#r12)">@@@@@@@@@@@@@@@@@@@@@@@%@#+=:`... ..`  .-*cc+. `-:-+c#%@%@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="154" xml:space="preserve" clip-path="url(#r13)">@@@@@@@@@@@@@@@@@@@@@@%%c:.............  :cs=.`:=+:``-+s@%@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="165" xml:space="preserve" clip-path="url(#r14)">@@@@@@@@@@@@@@@@@@@@@%@c`````...``........:*`.:--++=`..:%@%@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="176" xml:space="preserve" clip-path="url(#r15)">@@@@@@@@@@@@@@@@@@@@%%%-````...```````.....``.`:-=+*=`..*@%@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="187" xml:space="preserve" clip-path="url(#r16)">@@@@@@@@@@@@@@@@@@@@%@c```... .``````````..`..``:-==+. .:%@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="198" xml:space="preserve" clip-path="url(#r17)">@@@@@@@@@@@@@@@@@@@@%%-:..`.   .````````.  `....``:-`  ..#@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="209" xml:space="preserve" clip-path="url(#r18)">@@@@@@@@@@@@@@@@@@@%@s::..`.   .....`...  .``.....``  ...s@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="220" xml:space="preserve" clip-path="url(#r19)">@@@@@@@@@@@@@@@@@@@%@+`:`.`.   .``..`......`...`..:   ...*@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="231" xml:space="preserve" clip-path="url(#r20)">@@@@@@@@@@@@@@@@@@%@#````.. `` .`````..``..``.``.`:     .*@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="242" xml:space="preserve" clip-path="url(#r21)">@@@@@@@@@@@@@@@@@@%@= ...   s- .````..``...``.`:`::     `*@%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="253" xml:space="preserve" clip-path="url(#r22)">@@@@@@@@@@@@@@@@@%@%`..    *@- .```````..`.`...::--.     :%%%@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="264" xml:space="preserve" clip-path="url(#r23)">@@@@@@@@@@@@@@@@@%@%`.`... s@- ``....`.``..`...`===.   .`-%%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="275" xml:space="preserve" clip-path="url(#r24)">@@@@@@@@@@@@@@@@@@%@* .`....#: ``````````..`:```::=.  .``:%%%@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="286" xml:space="preserve" clip-path="url(#r25)">@@@@@@@@@@@@@@@@@@%%#:`:===-= .`````````....``:--:--`=**+c%%@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="297" xml:space="preserve" clip-path="url(#r26)">@@@@@@@@@@@@@@@@@@@@@@#**c*=+= .````......        `=:-*cs@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="308" xml:space="preserve" clip-path="url(#r27)">@@@@@@@@@@@@@@@@@@@@%%@%*+**+:  `````.````.`.....:-+-=cs#%%@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="319" xml:space="preserve" clip-path="url(#r28)">@@@@@@@@@@@@@@@@@@@@@@%@%c+**=. .````.``....`....`:=:=ss%@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="330" xml:space="preserve" clip-path="url(#r29)">@@@@@@@@@@@@@@@@@@@@@@@%@@#**c- .````````...``````:=:`:s@%@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="341" xml:space="preserve" clip-path="url(#r30)">@@@@@@@@@@@@@@@@@@@@@@@@@%@#+=.```````````..```````::`.#@%@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="352" xml:space="preserve" clip-path="url(#r31)">@@@@@@@@@@@@@@@@@@@@@@@@@@%%-..``````.``..............c@%@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="363" xml:space="preserve" clip-path="url(#r32)">@@@@@@@@@@@@@@@@@@@@@@@@@%%%:...`................... -@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="374" xml:space="preserve" clip-path="url(#r33)">@@@@@@@@@@@@@@@@@@@@@@@@@%@s.............. ......... c@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="385" xml:space="preserve" clip-path="url(#r34)">@@@@@@@@@@@@@@@@@@@@@@@@@%@+...........    .........`#@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
-<text x="0" y="396" xml:space="preserve" clip-path="url(#r35)">@@@@@@@@@@@@@@@@@@@@@@@@@%@=............-  .........:%@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r0" x="0" y="11" xml:space="preserve" clip-path="url(#r0)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r1" x="0" y="22" xml:space="preserve" clip-path="url(#r1)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r2" x="0" y="33" xml:space="preserve" clip-path="url(#r2)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#c=:`.`:=+s%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r3" x="0" y="44" xml:space="preserve" clip-path="url(#r3)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#=:`.      `:+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r4" x="0" y="55" xml:space="preserve" clip-path="url(#r4)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*   `=**+=-``:%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r5" x="0" y="66" xml:space="preserve" clip-path="url(#r5)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%:`====-+-`--*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r6" x="0" y="77" xml:space="preserve" clip-path="url(#r6)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*-*-. .+-.`-c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r7" x="0" y="88" xml:space="preserve" clip-path="url(#r7)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%s*+ss*====*s#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r8" x="0" y="99" xml:space="preserve" clip-path="url(#r8)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%*-+=+-:--s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r9" x="0" y="110" xml:space="preserve" clip-path="url(#r9)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@@#c+:::.`:c@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r10" x="0" y="121" xml:space="preserve" clip-path="url(#r10)">@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@%s*::scc*==scs@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r11" x="0" y="132" xml:space="preserve" clip-path="url(#r11)">@@@@@@@@@@@@@@@@@@@@@@@@%@@@%#c+=: .:``+cc*++:.+*s%@@@@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r12" x="0" y="143" xml:space="preserve" clip-path="url(#r12)">@@@@@@@@@@@@@@@@@@@@@@@%@#+=:`... ..`  .-*cc+. `-:-+c#%@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r13" x="0" y="154" xml:space="preserve" clip-path="url(#r13)">@@@@@@@@@@@@@@@@@@@@@@%%c:.............  :cs=.`:=+:``-+s@%@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r14" x="0" y="165" xml:space="preserve" clip-path="url(#r14)">@@@@@@@@@@@@@@@@@@@@@%@c`````...``........:*`.:--++=`..:%@%@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r15" x="0" y="176" xml:space="preserve" clip-path="url(#r15)">@@@@@@@@@@@@@@@@@@@@%%%-````...```````.....``.`:-=+*=`..*@%@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r16" x="0" y="187" xml:space="preserve" clip-path="url(#r16)">@@@@@@@@@@@@@@@@@@@@%@c```... .``````````..`..``:-==+. .:%@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r17" x="0" y="198" xml:space="preserve" clip-path="url(#r17)">@@@@@@@@@@@@@@@@@@@@%%-:..`.   .````````.  `....``:-`  ..#@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r18" x="0" y="209" xml:space="preserve" clip-path="url(#r18)">@@@@@@@@@@@@@@@@@@@%@s::..`.   .....`...  .``.....``  ...s@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r19" x="0" y="220" xml:space="preserve" clip-path="url(#r19)">@@@@@@@@@@@@@@@@@@@%@+`:`.`.   .``..`......`...`..:   ...*@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r20" x="0" y="231" xml:space="preserve" clip-path="url(#r20)">@@@@@@@@@@@@@@@@@@%@#````.. `` .`````..``..``.``.`:     .*@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r21" x="0" y="242" xml:space="preserve" clip-path="url(#r21)">@@@@@@@@@@@@@@@@@@%@= ...   s- .````..``...``.`:`::     `*@%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r22" x="0" y="253" xml:space="preserve" clip-path="url(#r22)">@@@@@@@@@@@@@@@@@%@%`..    *@- .```````..`.`...::--.     :%%%@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r23" x="0" y="264" xml:space="preserve" clip-path="url(#r23)">@@@@@@@@@@@@@@@@@%@%`.`... s@- ``....`.``..`...`===.   .`-%%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r24" x="0" y="275" xml:space="preserve" clip-path="url(#r24)">@@@@@@@@@@@@@@@@@@%@* .`....#: ``````````..`:```::=.  .``:%%%@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r25" x="0" y="286" xml:space="preserve" clip-path="url(#r25)">@@@@@@@@@@@@@@@@@@%%#:`:===-= .`````````....``:--:--`=**+c%%@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r26" x="0" y="297" xml:space="preserve" clip-path="url(#r26)">@@@@@@@@@@@@@@@@@@@@@@#**c*=+= .````......        `=:-*cs@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r27" x="0" y="308" xml:space="preserve" clip-path="url(#r27)">@@@@@@@@@@@@@@@@@@@@%%@%*+**+:  `````.````.`.....:-+-=cs#%%@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r28" x="0" y="319" xml:space="preserve" clip-path="url(#r28)">@@@@@@@@@@@@@@@@@@@@@@%@%c+**=. .````.``....`....`:=:=ss%@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r29" x="0" y="330" xml:space="preserve" clip-path="url(#r29)">@@@@@@@@@@@@@@@@@@@@@@@%@@#**c- .````````...``````:=:`:s@%@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r30" x="0" y="341" xml:space="preserve" clip-path="url(#r30)">@@@@@@@@@@@@@@@@@@@@@@@@@%@#+=.```````````..```````::`.#@%@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r31" x="0" y="352" xml:space="preserve" clip-path="url(#r31)">@@@@@@@@@@@@@@@@@@@@@@@@@@%%-..``````.``..............c@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r32" x="0" y="363" xml:space="preserve" clip-path="url(#r32)">@@@@@@@@@@@@@@@@@@@@@@@@@%%%:...`................... -@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r33" x="0" y="374" xml:space="preserve" clip-path="url(#r33)">@@@@@@@@@@@@@@@@@@@@@@@@@%@s.............. ......... c@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r34" x="0" y="385" xml:space="preserve" clip-path="url(#r34)">@@@@@@@@@@@@@@@@@@@@@@@@@%@+...........    .........`#@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row r35" x="0" y="396" xml:space="preserve" clip-path="url(#r35)">@@@@@@@@@@@@@@@@@@@@@@@@@%@=............-  .........:%@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 </svg>

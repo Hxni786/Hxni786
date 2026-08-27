@@ -54,6 +54,18 @@ def build_svg(lines: list[str]) -> str:
 
     row_delay = TOTAL_SECS / max(n_rows, 1)
 
+    # ── CSS Animation Rules ──────────────────────────────────────────
+    css_rules = [
+        "<style>",
+        f'text {{ font-family: "Courier New", Courier, monospace; font-size: {FONT_PX}px; fill: {GOLD}; }}',
+        "@keyframes fin { from { opacity: 0; } to { opacity: 1; } }",
+        ".row { animation: fin 0.3s ease-out both; }",
+    ]
+    for i in range(n_rows):
+        delay = i * row_delay
+        css_rules.append(f".r{i} {{ animation-delay: {delay:.3f}s; }}")
+    css_rules.append("</style>")
+
     # ── <defs>: one clipPath per row ─────────────────────────────────
     defs_parts = ["<defs>"]
     for i in range(n_rows):
@@ -77,7 +89,7 @@ def build_svg(lines: list[str]) -> str:
                 .replace("<", "&lt;")
                 .replace(">", "&gt;"))
         text_parts.append(
-            f'<text x="0" y="{baseline}" '
+            f'<text class="row r{i}" x="0" y="{baseline}" '
             f'xml:space="preserve" '
             f'clip-path="url(#r{i})">{safe}</text>'
         )
@@ -89,14 +101,11 @@ def build_svg(lines: list[str]) -> str:
         f'width="{svg_w:.0f}" height="{svg_h:.0f}" '
         f'viewBox="0 0 {svg_w:.0f} {svg_h:.0f}">',
 
-        # Transparent bg so the README dark background shows through
-        '<rect width="100%" height="100%" fill="transparent"/>',
+        # Background
+        '<rect width="100%" height="100%" fill="#0d0d0d" rx="8"/>',
+        f'<rect x="1" y="1" width="{svg_w-2:.0f}" height="{svg_h-2:.0f}" fill="none" stroke="#8B6914" stroke-width="1" rx="7.5"/>',
 
-        "<style>"
-        f'text{{font-family:"Courier New",Courier,monospace;'
-        f'font-size:{FONT_PX}px;fill:{GOLD};}}'
-        "</style>",
-
+        "\n".join(css_rules),
         "\n".join(defs_parts),
         "\n".join(text_parts),
         "</svg>",
@@ -105,9 +114,8 @@ def build_svg(lines: list[str]) -> str:
 
 
 if __name__ == "__main__":
-    print(f"Converting {SRC} → {OUT} …")
     lines = img_to_ascii(SRC)
     svg   = build_svg(lines)
     Path(OUT).write_text(svg, encoding="utf-8")
     cols  = max(len(l) for l in lines)
-    print(f"  ✓  {OUT}  ({cols} cols × {len(lines)} rows)")
+    print(f"Generated {OUT} ({cols} cols x {len(lines)} rows)")
