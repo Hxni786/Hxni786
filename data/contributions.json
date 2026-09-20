@@ -1,42 +1,7 @@
 {
   "username": "Hxni786",
-  "fetched": "2026-09-19",
+  "fetched": "2026-09-20",
   "days": [
-    {
-      "date": "2025-09-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-09-20",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-09-21",
       "level": 0,
@@ -1854,13 +1819,18 @@
     },
     {
       "date": "2026-09-19",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-09-20",
       "level": 0,
       "count": 0
     }
   ],
-  "total": 330,
-  "current_streak": 34,
-  "longest_streak": 34,
+  "total": 332,
+  "current_streak": 35,
+  "longest_streak": 35,
   "best_day": {
     "date": "2026-04-03",
     "level": 4,
