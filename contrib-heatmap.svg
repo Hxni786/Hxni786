@@ -113,7 +113,7 @@
 <rect x="199" y="61" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.160s" fill="freeze"/><title>0 contributions on 2025-12-24</title></rect>
 <rect x="199" y="74" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.170s" fill="freeze"/><title>0 contributions on 2025-12-25</title></rect>
 <rect x="199" y="87" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.180s" fill="freeze"/><title>0 contributions on 2025-12-26</title></rect>
-<rect x="199" y="100" width="11" height="11" rx="2" fill="#5c3a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.190s" fill="freeze"/><title>5 contributions on 2025-12-27</title></rect>
+<rect x="199" y="100" width="11" height="11" rx="2" fill="#2d1a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.190s" fill="freeze"/><title>2 contributions on 2025-12-27</title></rect>
 <rect x="212" y="22" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.140s" fill="freeze"/><title>0 contributions on 2025-12-28</title></rect>
 <rect x="212" y="35" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.150s" fill="freeze"/><title>0 contributions on 2025-12-29</title></rect>
 <rect x="212" y="48" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.160s" fill="freeze"/><title>0 contributions on 2025-12-30</title></rect>
@@ -384,10 +384,10 @@
 <rect x="706" y="35" width="11" height="11" rx="2" fill="#5c3a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.530s" fill="freeze"/><title>5 contributions on 2026-09-21</title></rect>
 <rect x="706" y="48" width="11" height="11" rx="2" fill="#2d1a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.540s" fill="freeze"/><title>2 contributions on 2026-09-22</title></rect>
 <rect x="706" y="61" width="11" height="11" rx="2" fill="#2d1a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.550s" fill="freeze"/><title>2 contributions on 2026-09-23</title></rect>
-<rect x="706" y="74" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.560s" fill="freeze"/><title>0 contributions on 2026-09-24</title></rect>
-<rect x="706" y="87" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.570s" fill="freeze"/><title>0 contributions on 2026-09-25</title></rect>
+<rect x="706" y="74" width="11" height="11" rx="2" fill="#2d1a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.560s" fill="freeze"/><title>2 contributions on 2026-09-24</title></rect>
+<rect x="706" y="87" width="11" height="11" rx="2" fill="#2d1a00" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.570s" fill="freeze"/><title>2 contributions on 2026-09-25</title></rect>
 <rect x="706" y="100" width="11" height="11" rx="2" fill="#1a1a1a" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.580s" fill="freeze"/><title>0 contributions on 2026-09-26</title></rect>
-<text x="363" y="125" font-size="10" fill="#8a8a8a" text-anchor="middle">341 contributions in the last year  ·  Streak: 39d  ·  Best: 39d</text>
+<text x="363" y="125" font-size="10" fill="#8a8a8a" text-anchor="middle">342 contributions in the last year  ·  Streak: 41d  ·  Best: 41d</text>
 <text x="614" y="153" font-size="9" fill="#8a8a8a" text-anchor="end">Less</text>
 <rect x="618" y="143" width="11" height="11" rx="2" fill="#1a1a1a"/>
 <rect x="631" y="143" width="11" height="11" rx="2" fill="#2d1a00"/>
