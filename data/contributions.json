@@ -1,6 +1,6 @@
 {
   "username": "Hxni786",
-  "fetched": "2026-11-08",
+  "fetched": "2026-11-09",
   "days": [
     {
       "date": "2025-11-09",
@@ -1824,13 +1824,18 @@
     },
     {
       "date": "2026-11-08",
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
       "level": 0,
       "count": 0
     }
   ],
-  "total": 437,
-  "current_streak": 84,
-  "longest_streak": 84,
+  "total": 439,
+  "current_streak": 85,
+  "longest_streak": 85,
   "best_day": {
     "date": "2026-04-15",
     "level": 4,
